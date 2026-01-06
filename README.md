@@ -1,16 +1,17 @@
-## Hi there 👋
+# Juan José Herrera Orozco
+Fullstack Developer | Junior Avanzado (Backend-focused)
 
-<!--
-**eltin28/eltin28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stack principal
+- Java 17, Spring Boot
+- APIs REST, JWT, Clean Architecture
+- React, Angular, TypeScript
+- MySQL, PostgreSQL
+- Docker, GitHub Actions, AWS
 
-Here are some ideas to get you started:
+## Qué hago
+Desarrollo APIs REST escalables y mantenibles aplicando buenas prácticas
+de arquitectura y testing, con experiencia en proyectos productivos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+- LinkedIn: https://www.linkedin.com/in/juan-jose-herrera-orozco/
+- Instagram: https://www.instagram.com/_juan_jose_herrera/
